@@ -1,0 +1,41 @@
+
+
+
+.serch-form{
+  width: 90vw;
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+
+.form-input{
+  width: 100%;
+ 
+  max-width: 600px;
+  background: white;
+  padding: 1rem;
+  font-size: 1rem;
+  color: grey;
+  letter-spacing: 0.25rem;
+  margin-top: 1rem;
+}
+
+.error{
+  color: red;
+  text-transform: capitalize;
+  padding: 0.5rem;
+}
+
+.movies {
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding-bottom: 5rem;
+}
+
+.movie{
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+}
